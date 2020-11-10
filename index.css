@@ -74,3 +74,36 @@ h5 {
     font-style: italic;
 
 }
+
+.sketch-images {
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+
+.sketch-images img {
+    width: 30vw;
+    height: 25vw
+}
+
+figure {
+    width: 30vw;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.sub {
+    margin-left:2em;
+    margin-bottom: 20px;
+}
+
+.tab {
+    margin-left: 2em;
+}
+
+video {
+    width: 50vw;
+    height: 100%;
+}
